@@ -1,6 +1,7 @@
 # ValentineChocolates
 
 A fun and interactive Valentine-themed chocolate box game built with LÖVE (Love2D) and Lua.
+https://github.com/avenkatesh2507/Chocola/releases/tag/v1.0.0/sha256:d062302173863051afa8c73084c2c0e3ff797eda53db314584c0964028dd3093
 
 ## Features
 - Heart-shaped chocolate slots
